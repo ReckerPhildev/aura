@@ -10,9 +10,24 @@
         "img":"wtm.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name":"DSCKabarak",
+        "link":"https://github.com/DSCKabarak",
+        "img":"dsckabarak.jpeg"
+    },
+    {
+        "name":"GitHub Education",
+        "link":"https://education.github.com",
+        "img":"githubeducation.png"
+    },
+    {
+        "name":"DSCKabarak",
+        "link":"https://github.com/DSCKabarak",
+        "img":"gatsby.jpeg"
+    },
+    {
+        "name":"Gitkraken",
+        "link":"https://gitkraken.com",
+        "img":"gitkraken.jpeg"
     }
 
 ]

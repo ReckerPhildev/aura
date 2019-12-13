@@ -1,25 +1,52 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Maureen Bett",
+        "designation":"DSC Co-lead",
+        "twitter":"https://twitter.com/MaureenRalph3/",
+        "linkedin":"https://www.linkedin.com/in/maureen",
+        "github":"https://github.com/moh",
+        "profileImage":"moh.jpg",
+        "website":""
+    },
+    {
+        "name":"Ian Njuguna",
+        "designation":"DSC Co-lead",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://github.com/",
-        "profileImage":"",
+        "profileImage":"ian.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Kevin Mbuthia",
+        "designation":"DSC Co-lead",
+        "twitter":"https://twitter.com/mbuthia2kevin",
+        "linkedin":"https://www.linkedin.com/in/kevin-mbuthia-",
+        "github":"https://github.com/Kevinmbuthia",
+        "profileImage":"kevin.jpg",
+        "website":""
+    },
+    {
+        "name":"Walter Kai",
+        "designation":"DSC Co-lead",
+        "twitter":"https://twitter.com/walterkaibanda",
+        "linkedin":"https://linkedin.com/in/walterkaibanda",
+        "github":"https://github.com/WalterBanda",
+        "profileImage":"walter.jpg",
+        "website":""
+    },
+    {
+        "name":"Emmanuel Changole",
+        "designation":"Project Lead",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
+        "github":"https://github.com/EmmanuelChangole",
+        "profileImage":"manu.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Collins Swai",
+        "designation":"Project Lead",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://www.github.com/",
@@ -27,21 +54,12 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
+        "name":"Wes Okemwa",
+        "designation":"Project Lead",
+        "twitter":"https://twitter.com/okemwa_wes",
+        "linkedin":"https://linkedin.com/in/okemwa-wesley-06138a194",
+        "github":"https://github.com/1wes",
+        "profileImage":"wes.jpg",
         "website":""
     }
 ]
