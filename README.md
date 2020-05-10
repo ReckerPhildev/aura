@@ -32,6 +32,7 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) te
 1. Replace the `urlname` Field (`CHAPTER_URL_NAME`)  [here](/src/config/key.js)
 1. Compiles and hot-reloads for development: `npm run serve`
 1. Update `Meta Tag`, `Title Tag` and [Google Analytics Code](https://analytics.google.com/analytics/web/#/) from [Basic Info](/public/index.html), [manifest.json](/public/manifest.json) and [Resources](/src/assets/data)
+1. Vue tweet embed : `npm install vue-tweet-embed`
 1. For the production: `npm run build` and then one dir will be created `dist`
 1. For testing: `npm run test`
 
