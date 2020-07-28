@@ -188,7 +188,7 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 | GDG Ulaanbaatar | [View Now](https://gdgub.org/) |
 | GDG Ado-Ekiti | [View Now](https://gdgadoekiti.com) |
 | GDG Gwalior | [View Now](https://gdggwalior.in/) |
-
+| DSC Kabarak | [View Now](https://dsckabarakuniversity.web.app/) |
 
 Project is published under the [MIT license](/LICENSE.md).  
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
