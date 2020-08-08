@@ -1,7 +1,7 @@
 module.exports = {
   productionSourceMap: false,
   pwa: {
-    name: 'GDG Web App',
+    name: 'DSC Web App',
     workboxPluginMode: 'InjectManifest',
     themeColor: '#4A90E2',
     workboxOptions: {

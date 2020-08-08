@@ -1,0 +1,58 @@
+[
+    {
+        "name":"Eve Kilel",
+        "twitter":"https://twitter.com/eve_kilel",
+        "designation": "Cyber Security Engineer at Safaricom PLC and Co-Founder at SheHacksKe",
+        "linkedin":"https://www.linkedin.com/in/eve-kilel/",
+        "github":"",
+        "profileImage":"eve.jpeg",
+        "website":""
+    },
+    {
+        "name":"Anthony Kiplimo",
+        "designation": "Developer Relations at Africa's Talking",
+        "twitter":"https://twitter.com/AnthonyLimo",
+        "linkedin":"https://www.linkedin.com/in/anthony-kiplimo-0234384b/",
+        "profileImage":"limo.jpeg"
+    },
+    {
+        "name":"Shem Kiptoo",
+        "designation": "Full Stack Software Developer at IE Solutions Limited",
+        "twitter":"https://twitter.com/_shemkiptoo",
+        "linkedin":"https://www.linkedin.com/in/shem-kiptoo-6a7269199/",
+        "profileImage":"shem.jpeg",
+        "website":""
+    },
+    {
+        "name":"Wambui Kaburi",
+        "designation": "Software Developer at ICEA Lion Group",
+        "twitter":"https://twitter.com/WambuiKaburi",
+        "linkedin":"https://www.linkedin.com/in/martha-wambui-kaburi/",
+        "profileImage":"wambo.jpg",
+        "website":""
+    },
+    {
+        "name":"Salma Nyagaka",
+        "designation": "Developer Relations and Software Engineer @ Decoded Africa",
+        "twitter":"https://twitter.com/NyagakaSalma",
+        "linkedin":"https://www.linkedin.com/in/salma-nyagaka-a41033160/",
+        "profileImage":"salma.jpeg",
+        "website":"https://www.salmanyagaka.com/"
+    },
+    {
+        "name":"Joy Phoebe",
+        "designation": "IT Security & Web Development | Girls Get Geeky Kenya",
+        "twitter":"https://twitter.com/joyphoebe300",
+        "linkedin":"https://www.linkedin.com/in/joy-phoebe-00b80a13a/",
+        "profileImage":"phoebe.jpeg",
+        "website":""
+    },
+    {
+        "name":"Emmanuel Okumu",
+        "designation": "Cyber Security Researcher",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/emnl/",
+        "profileImage":"",
+        "website":""
+    }
+]

@@ -1,5 +1,9 @@
 <template>
     <v-container class="pa-0">
+        <v-flex xs12 class="mb-3">
+            <p class="google-font" style="font-size:130%;">Mentors</p>
+            <v-divider></v-divider>
+        </v-flex>
         <v-layout wrap align-start justify-start row fill-height class="mt-0 mb-0">
             <v-flex xs6 sm3 md2 lg2 v-for="(item,i) in TeamDetails" :key="i" class="text-xs-center" style="text-align:center">
                 <!-- style="text-align:center;border: 1px solid #e0e0e0;min-height:250px;border-radius:7px" -->
@@ -56,6 +60,7 @@ export default {
             TeamDetails: TeamDetails,
             showLoader: true,
             showData:false,
+            show:false
         }
     },
     mounted(){
@@ -68,7 +73,7 @@ export default {
             }else{
                 return require('@/assets/img/team/avatar.png')
             }
-        },
+        }
     },
     filters:{
         summery: (val,num)=>{

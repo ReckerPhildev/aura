@@ -1,7 +1,16 @@
 [
     {
+        "name":"Mitchelle Wainaina",
+        "designation":"Android Development",
+        "twitter":"https://twitter.com/Michellewainai4",
+        "linkedin":"https://www.linkedin.com/in/mitchell-wainaina-090196198",
+        "github":"https://github.com/michellewainaina",
+        "profileImage":"mitchelle.jpeg",
+        "website":""
+    },
+    {
         "name":"Maureen Bett",
-        "designation":"DSC Co-lead",
+        "designation":"Web Development",
         "twitter":"https://twitter.com/MaureenRalph3/",
         "linkedin":"https://www.linkedin.com/in/maureen",
         "github":"https://github.com/moh",
@@ -9,26 +18,8 @@
         "website":""
     },
     {
-        "name":"Ian Njuguna",
-        "designation":"DSC Co-lead",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"ian.jpg",
-        "website":""
-    },
-    {
-        "name":"Kevin Mbuthia",
-        "designation":"DSC Co-lead",
-        "twitter":"https://twitter.com/mbuthia2kevin",
-        "linkedin":"https://www.linkedin.com/in/kevin-mbuthia-",
-        "github":"https://github.com/Kevinmbuthia",
-        "profileImage":"kevin.jpg",
-        "website":""
-    },
-    {
         "name":"Walter Kai",
-        "designation":"DSC Co-lead",
+        "designation":"Web Development",
         "twitter":"https://twitter.com/walterkaibanda",
         "linkedin":"https://linkedin.com/in/walterkaibanda",
         "github":"https://github.com/WalterBanda",
@@ -36,30 +27,75 @@
         "website":""
     },
     {
-        "name":"Emmanuel Changole",
-        "designation":"Project Lead",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/EmmanuelChangole",
-        "profileImage":"manu.jpg",
-        "website":""
-    },
-    {
         "name":"Collins Swai",
-        "designation":"Project Lead",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
+        "designation":"Android Development",
+        "twitter":"https://twitter.com/swai_collins",
+        "linkedin":"https://www.linkedin.com/in/collins-swai-b62229b5/",
+        "github":"https://github.com/swai-collins",
+        "profileImage":"swai.jpeg",
         "website":""
     },
     {
-        "name":"Wes Okemwa",
-        "designation":"Project Lead",
-        "twitter":"https://twitter.com/okemwa_wes",
-        "linkedin":"https://linkedin.com/in/okemwa-wesley-06138a194",
-        "github":"https://github.com/1wes",
-        "profileImage":"wes.jpg",
+        "name":"Ann Muli",
+        "designation":"Web development",
+        "twitter":"https://twitter.com/Tushann1",
+        "linkedin":"https://www.linkedin.cn/in/muli-ann-",
+        "github":"https://github.com/muliann",
+        "profileImage":"ann.jpeg",
+        "website":""
+    },
+    {
+        "name":"Dancan Kibet",
+        "designation":"Design",
+        "twitter":"https://twitter.com/dan_mibei",
+        "linkedin":"https://www.linkedin.com/in/dan-mibei-5810291b2/",
+        "github":"https://github.com/dan747",
+        "profileImage":"dancan.png",
+        "website":""
+    },
+    {
+        "name":"Ivy Mweru",
+        "designation":"Web Development",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/ivy-mweru-4411a6b3/",
+        "github":"https://github.com/mweru7",
+        "profileImage":"ivy.jpg",
+        "website":""
+    },
+    {
+        "name":"Patrick Limo",
+        "designation":"Machine Learning",
+        "twitter":"https://twitter.com/limz56294700",
+        "linkedin":"https://www.linkedin.com/in/kipkirui-patrick-limo-634692182/",
+        "github":"https: https://github.com/limzcode",
+        "profileImage":"limz.jpeg",
+        "website":""
+    },
+    {
+        "name":"Haron Rono",
+        "designation":"Machine Learning",
+        "twitter":"https://twitter.com/developerharon",
+        "linkedin":"https://www.linkedin.com/in/developerharon",
+        "github":"https://www.linkedin.com/in/developerharon",
+        "profileImage":"haron.jpg",
+        "website":""
+    },
+    {
+        "name":"Alinnor Shukri",
+        "designation":"Web Development",
+        "twitter":"https://twitter.com/AlinoorShukri",
+        "linkedin":"https://www.linkedin.com/in/alinoor-shukri-826005188/",
+        "github":"https://github.com/alishker",
+        "profileImage":"ali.png",
+        "website":""
+    },
+    {
+        "name":"Easter Manyara",
+        "designation":"Design",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/mwlite/in/easter-manyara-1060881b3",
+        "github":"https://github.com/M34N-e",
+        "profileImage":"easter.jpg",
         "website":""
     }
 ]
