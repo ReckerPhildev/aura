@@ -10,24 +10,8 @@
         "img":"wtm.png"
     },
     {
-        "name":"DSCKabarak",
-        "link":"https://github.com/DSCKabarak",
-        "img":"dsckabarak.jpeg"
-    },
-    {
-        "name":"GitHub Education",
-        "link":"https://education.github.com",
-        "img":"githubeducation.png"
-    },
-    {
-        "name":"DSCKabarak",
-        "link":"https://github.com/DSCKabarak",
-        "img":"gatsby.jpeg"
-    },
-    {
-        "name":"Gitkraken",
-        "link":"https://gitkraken.com",
-        "img":"gitkraken.jpeg"
+        "name":"MicroHub",
+        "link":"https://www.microhub.tech",
+        "img":"microhub.png"
     }
-
 ]
