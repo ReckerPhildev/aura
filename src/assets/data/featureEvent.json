@@ -2,18 +2,19 @@
     "FeatureEventName":"Cloud Com '20",
     "EventImage":"Cloudcom2020.jpeg",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
-        "Year":"2020"
+        "Date":"",
+        "Month":"",
+        "Year":""
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"",
+        "EndTime":""
     },
-    "EventVenue":"Kabarak University, Library Conference",
-    "EventVenueMapLink":"https://www.google.com/maps/dir/28.4185099,77.0492088/Kabarak+University+Online+(KABUO)/@13.9577588,47.4688059,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x1829f6f346160e29:0x47cbe5bbba1233f5!2m2!1d35.965324!2d-0.16598",
+    "EventVenue":"",
+    "EventVenueMapLink":"",
     "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"We will tackle cloud communications platforms as a service.Platforms that allow software developers to programmatically make and receive phone calls, send and receive text messages, and perform other cloud functions using its web service APIs.",
+    "EventDescription":"A unique opportunity to speak at an event to a group of passionate, ambitious and dedicated Developers. You have the chance to increase your knowledge.",
+    "LeadDescription":" Developer Student Club Leads are passionate leaders at their university who are dedicated to helping their peers learn and connect. These Leads have a good foundational knowledge of software development concepts.Google collaborates with DSC Leads once a year who are pursuing an undergraduate or graduate university degree and supports them as they start and grow their on-campus community.",
     "MeetupLink":"https://www.meetup.com/DSCKabarak",
     "RegistrationLink":"https://meetup.com/DSCKabarak",
     "FBEventPageURL":"s"

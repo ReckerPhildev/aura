@@ -33,7 +33,7 @@
     },
     {
         "name":"Salma Nyagaka",
-        "designation": "Developer Relations and Software Engineer @ Decoded Africa",
+        "designation": "Developer Relations and Software Engineer Decoded Africa",
         "twitter":"https://twitter.com/NyagakaSalma",
         "linkedin":"https://www.linkedin.com/in/salma-nyagaka-a41033160/",
         "profileImage":"salma.jpeg",
@@ -50,9 +50,9 @@
     {
         "name":"Emmanuel Okumu",
         "designation": "Cyber Security Researcher",
-        "twitter":"",
+        "twitter":"https://twitter.com/theSimpleZero",
         "linkedin":"https://www.linkedin.com/in/emnl/",
-        "profileImage":"",
+        "profileImage":"manu.jpeg",
         "website":""
     }
 ]
