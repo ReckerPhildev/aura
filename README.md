@@ -62,6 +62,8 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 
 ## Contributors
 <b>Maintainer:</b> [Vrijraj Singh](https://github.com/vrijraj)
+[Philip Matunda](https://github.com/Phil-Reck)
+[Billy Gareth](https://github.com/GillyGareth)
 
 
 Project is published under the [MIT license](/LICENSE.md).  

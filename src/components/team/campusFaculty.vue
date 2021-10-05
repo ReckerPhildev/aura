@@ -1,7 +1,7 @@
 <template>
     <v-container class="pa-0">
         <v-flex xs12 class="mb-3">
-            <p class="google-font" style="font-size:130%;">Campus Faculty</p>
+            <p class="google-font" style="font-size:130%;">Campus Faculty - School of Science Engineering & Technology</p>
             <v-divider></v-divider>
         </v-flex>
         <v-layout wrap align-start justify-start row fill-height class="mt-0 mb-0">
