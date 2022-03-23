@@ -15,7 +15,7 @@
             </v-btn>
         </v-snackbar>
 
-        <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0" >
+        <!-- <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0" >
            <v-flex xs12 md12 lg12 class="pa-2 mb-0">
                <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Directory of past events</p>
                <p class="google-font mt-0 mb-0" style="font-size:110%;color:#616161 ">
@@ -24,7 +24,7 @@
                <p class="google-font" style="font-size:110%;color:#616161 ">Here are the recent 10 meetups. To know more about the past meetups <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">Click here</a></p>
 
             </v-flex> 
-        </v-layout>
+        </v-layout> -->
 
         <v-layout wrap row >
 
@@ -92,9 +92,9 @@
                 </v-slide-y-reverse-transition>
             </v-flex>
 
-            <v-flex xs12 v-if="notFoundPastEventFlag==true">
+            <!-- <v-flex xs12 v-if="notFoundPastEventFlag==true">
                 <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Past Events Not Found!</p>
-            </v-flex>
+            </v-flex> -->
 
             
         </v-layout>
