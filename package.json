@@ -13,6 +13,7 @@
     "material-design-icons-iconfont": "^3.0.3",
     "register-service-worker": "^1.5.2",
     "roboto-fontface": "*",
+    "tar": "^6.1.11",
     "vue": "^2.6.6",
     "vue-axios": "^2.1.4",
     "vue-material-design-icons": "^4.8.0",

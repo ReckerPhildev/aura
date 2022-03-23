@@ -1,8 +1,8 @@
 [
     {
-        "TechName":"Vue",
-        "image":"vuejs.png",
-        "link":"https://vuejs.org/"
+        "TechName":"Angular",
+        "image":"angular.png",
+        "link":"https://angular.io/"
     },
     {
         "TechName":"Google Cloud Platform",
